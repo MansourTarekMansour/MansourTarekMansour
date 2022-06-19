@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mansour Tarek Mansour</h1>
 <h3 align="center">Software Developer from Egypt🇪🇬</h3>
 
+- 🌱 I’m currently learning **Design Patterns & clean architecture & NodeJs**
+
+- 📫 How to reach me **mansourtarek78@gmail.com**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansourtarekmansour&label=Profile%20views&color=0e75b6&style=flat" alt="mansourtarekmansour" /> </p>
 
 <h3 align="left">Connect with me:</h3>
