@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mansour Tarek Mansour</h1>
 <h3 align="center">Software Developer from Egypt🇪🇬</h3>
 
-- 🌱 I’m currently learning **Design Patterns & clean architecture & NodeJs**
+- 🌱 I’m currently learning **Design Patterns & Clean Architecture & NodeJs**
 
 - 📫 How to reach me **mansourtarek78@gmail.com**
 
