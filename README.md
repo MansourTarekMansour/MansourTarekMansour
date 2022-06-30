@@ -14,8 +14,9 @@
 <a href="https://codeforces.com/profile/mansour.tarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mansour.tarek" height="30" width="40" /></a>
 </p>
 
+<!-- 
 ![Mansour Tarek GitHub Stats](https://github-readme-stats.vercel.app/api?username=MansourTarekMansour&show_icons=true&theme=dark)
-
+-->
 ![Mansour Tarek GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MansourTarekMansour&show_icons=true&theme=dark)
 
 <!-- 
