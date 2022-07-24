@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansour Tarek Mansour</h1>
-<h3 align="center">Software Developer from Egypt🇪🇬</h3>
+<h3 align="center">Software Developer and Competitive Programmer (ECPC - ACPC) from Egypt🇪🇬</h3>
 
 - 🌱 I’m currently learning **Design Patterns & Clean Architecture & NodeJs**
 
