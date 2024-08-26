@@ -13,7 +13,10 @@
  <a href="https://codeforces.com/profile/mansour.tarek" rel="nofollow">
     <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile" style="max-width: 100%;">
 </a>
-<a href="https://x.com/Mansour_Tarek12" rel="nofollow"><img src="https://camo.githubusercontent.com/97fc8d10c0cf7b2adc2781d461672ee90f9a03f31ed20d76f5531161a7cf940f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://x.com/Mansour_Tarek12" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Profile">
+</a>
+
 <a href="https://www.facebook.com/mansour.tarek.77" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Profile">
 </a>
