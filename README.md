@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mansour Tarek Mansour🇪🇬</h1>
 <h3 align="center">Backend Developer, Mobile Developer, Competitive Programmer (ECPC-ACPC)</h3>
 
-- 🌱 I’m currently learning **Design Patterns & Clean Architecture
-
+- 🌱 I’m currently learning <b>Design Patterns & Clean Architecture</b>
+- 💬 Ask me about Flutter and Laravel.
 - 📫 How to reach me **mansourtarek78@gmail.com**
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansourtarekmansour&label=Profile%20views&color=0e75b6&style=flat" alt="mansourtarekmansour" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mansour-tarek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansour-tarek/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mansour.tarek.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mansour.tarek.77" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mansour.tarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mansour.tarek" height="30" width="40" /></a>
-</p>
-
+<a href="https://www.linkedin.com/in/mansour-tarek/" rel="nofollow"><img src="https://camo.githubusercontent.com/10cf9cff8ec29ee00af4b9f676d6a14aa66646f4a8d430a58f1d85d27e74646f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a href="https://codeforces.com/profile/mansour.tarek" rel="nofollow">
+    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile" style="max-width: 100%;">
+</a>
+<a href="https://x.com/Mansour_Tarek12" rel="nofollow"><img src="https://camo.githubusercontent.com/97fc8d10c0cf7b2adc2781d461672ee90f9a03f31ed20d76f5531161a7cf940f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.facebook.com/mansour.tarek.77" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Profile">
+</a>
 
 <!-- ![Mansour Tarek GitHub Stats](https://github-readme-stats.vercel.app/api?username=MansourTarekMansour&show_icons=true&theme=dark) -->
 
