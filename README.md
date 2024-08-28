@@ -9,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mansour-tarek/" rel="nofollow"><img src="https://camo.githubusercontent.com/10cf9cff8ec29ee00af4b9f676d6a14aa66646f4a8d430a58f1d85d27e74646f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/mansour-tarek/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Profile">
+</a>
  <a href="https://codeforces.com/profile/mansour.tarek" rel="nofollow">
     <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile" style="max-width: 100%;">
 </a>
