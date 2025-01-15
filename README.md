@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mansour Tarek Mansour🇪🇬</h1>
-<h3 align="center">Backend Developer, Mobile Developer, Competitive Programmer (ECPC-ACPC)</h3>
-
-- 🌱 I’m currently learning <b>Design Patterns & Clean Architecture</b>
-- 💬 Ask me about Flutter and Laravel.
-- 📫 How to reach me **mansourtarek78@gmail.com**
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansourtarekmansour&label=Profile%20views&color=0e75b6&style=flat" alt="mansourtarekmansour" /> </p> -->
+<a href="https://github.com/MansourTarekMansour">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MansourTarekMansour/mansour_readme/main/dark_mode.svg">
+    <img alt="Mansour's GitHub Profile README" src="https://raw.githubusercontent.com/MansourTarekMansour/mansour_readme/main/dark_mode.svg">
+  </picture>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
